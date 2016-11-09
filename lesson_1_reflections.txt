@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Esto ayuda porque comparando puedes ver exactamene donde se encuentran los cambios 
+y de acuerdo a esos cambios, determinar cual ocaciono el error.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Guardando una copia de cada cambio para poder ser recuperada en el momento indicado que se necesite
+
