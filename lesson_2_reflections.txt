@@ -1,0 +1,24 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Se crea un directorio .git oculto, que almacenara la historia de cambios realizados en este repositorio. Esto es necesario para hacer entender a GIT que donde nos posicionamos sera ahora un Repositorio nuevo.
+
+-------------------------------------------------------------------------------
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Esta es un area intermedia entre lo actual que tenemos en el Working Directory y el Repositorio que permite almacenar y tener mapeados los archivos que seran parte del siguiente commit y que hacen referencia a un cambio logico
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
