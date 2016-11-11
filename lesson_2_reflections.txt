@@ -11,6 +11,9 @@ Esta es un area intermedia entre lo actual que tenemos en el Working Directory y
 
 -------------------------------------------------------------------------------
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Puedo colocar todos los archivos que se relacionan por cambiop logico y los que no los dejo fuera. Asi al comitear estos archivos al repositorio, se que pertenecen al cambio logico que detalle en comentario del commit
 
 -------------------------------------------------------------------------------
 
