@@ -17,11 +17,27 @@ Puedo colocar todos los archivos que se relacionan por cambiop logico y los que 
 
 -------------------------------------------------------------------------------
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Serian de ayuda cuando dese probar una nueva version sin borrar o modificar el original o tambien cuando desearia trabajar en una caracteristica experimental 
+
+me ayudarian a seguir caminos diferentes si afectar mi rama principal sino por caminos independientes
 
 -------------------------------------------------------------------------------
 
+How do the diagrams help you visualize the branch structure?
+
+Los diagramas ayudan a saber en que momento se hiso el cambio y que camino recorrio. de esta manera se puede tener una visualizacion de los camninos y padres en cada cambio
 
 -------------------------------------------------------------------------------
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+El resultado es que obtenemos ambas caracteristicas de las dos ramas en una sola y son representadas asi porque en un punto se fusionan ambas
 
 -------------------------------------------------------------------------------
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Los PRO es que te reduce el trabajo de estar comparando linea por linea y agrega las lineas nuevas y elimina las antiguas sin problemas
+a diferencia del manual que cuando hay confictos permite manualmente elegir que version de todas dejas (Original vs modificacion de persona 1 vs modificacion de persona 2)
